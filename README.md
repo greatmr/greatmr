@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrjahantalab/" target="blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-mgreatmr-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/-mrjahantalab-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mrjahantalab@gmail.com" target="blank">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
